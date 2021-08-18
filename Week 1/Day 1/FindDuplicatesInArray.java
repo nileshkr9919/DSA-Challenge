@@ -1,3 +1,9 @@
+/*
+Coding Platform: Leetcode
+Problem Code: 442
+Link to the problem: https://leetcode.com/problems/find-all-duplicates-in-an-array/
+*/
+
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> res = new LinkedList<>();
