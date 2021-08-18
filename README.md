@@ -1,2 +1,2 @@
 # DSA-Challenge
-Data Structures and Alogithms practice challenge to solve problems on Codechef and Leetcode, regularly.
+Data Structures and Alogithms practice challenge to solve problems on Online Coding Platforms, regularly.
